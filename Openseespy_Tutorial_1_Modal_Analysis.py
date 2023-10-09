@@ -1,7 +1,7 @@
 
 @author: jarveiclos
 """
-Openseespy odal analysis code designed to study a shaft with mass imbalance.
+Openseespy Modal analysis code designed to study a shaft with mass imbalance.
  Key parameters include a 1.5-meter shaft with a 0.5-inch diameter, a 40 kg 
  mass, a density of 7850 kg/m³, and a Young's Modulus of 2.1 GPa. Explore the 
  dynamic behavior and vibration modes of the system using this code.
